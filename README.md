@@ -11,3 +11,6 @@ I agreed with that because his suggestions make sense. previously I made the sol
 Finally, the device is ready. we can call it as an Intelligent Pulse Oximeter for Covid Patients which is an updated version of the previous solution “IoT-based Covid Patient Blood Oxygen monitor”. This device will monitor patient’s blood oxygen levels and Heart rate then shows them on the OLED display, also it will post data to the Ubidots platform then trigger an alert to medical staff in case of emergency.
 
 Full Description of the project and Step by step approach can be found here:https://electronicsinnovation.com/diy-intelligent-pulse-oximeter-for-covid-patients-diy-pulse-oximeter-max30100-micropython/
+
+#Note: The Algorithm of SpO2 and Haertrate calculation needs an upgrade to measure the values more accurately.
+
