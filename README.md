@@ -1,4 +1,4 @@
 # Connect-ESP32-to-Ubidots-using-Micropython-over-MQTT-with-Visual-Studio-Code
 Programing the Espressif ESP32 module to communicate with Ubidots over MQTT using Visual Studio Code and MicroPython. First, we will set up the ESP32-DevkitC board with micropython using ESP-IDF. then we will install Visual Studio Code and other necessary installation packages like nodeJs. also, we will install pymakr plugin/extension in Visual Studio Code, The Pymakr plugin makes everything much simpler when programming with micropython. Finally, we will write a script to Connect your ESP32 to Ubidots over MQTT using MicroPython. Then will demonstrate the same.
 
-Full Description of the project and Step by step apploch can be found here: https://electronicsinnovation.com/connect-esp32-to-ubidots-using-micropython-over-mqtt-with-visual-studio-code/
+Full Description of the project and Step by step approach can be found here: https://electronicsinnovation.com/connect-esp32-to-ubidots-using-micropython-over-mqtt-with-visual-studio-code/
